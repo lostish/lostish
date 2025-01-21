@@ -24,23 +24,27 @@ I'm always open to learn from everyone.
 
 ### What i use recurrently for my projects
 
-<img style="margin: 0px 1rem 0px 0px; width: 50px; heigth: 50px;" src="./Vercel.svg" alt="Vercel icon" />
-<img style="width: 50px; heigth: 50px;" src="./Next.js.svg" alt="Next.js icon" />
-<img style="margin: 0px 1rem 0px; width: 50px; heigth: 50px;" src="./TypeScript.svg" alt="TypeScript icon" />
-<img style="margin: 0px 1rem 0px 0px; width: 50px; heigth: 50px;" src="./tailwind-css.svg" alt="Tailwind Css icon" />
-<img style="margin: 0px 1rem 0px 0px; width: 50px; heigth: 50px;" src="./Bun.svg" alt="Bun icon" />
-<img style="margin: 0px 1rem 0px 0px; width: 50px; heigth: 50px;" src="./Git.svg" alt="Git icon" />
+<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+    <img style="width: 50px; height: 50px;" src="./Vercel.svg" alt="Vercel icon" />
+    <img style="width: 50px; height: 50px;" src="./Next.js.svg" alt="Next.js icon" />
+    <img style="width: 50px; height: 50px;" src="./TypeScript.svg" alt="TypeScript icon" />
+    <img style="width: 50px; height: 50px;" src="./tailwind-css.svg" alt="Tailwind Css icon" />
+    <img style="width: 50px; height: 50px;" src="./Bun.svg" alt="Bun icon" />
+    <img style="width: 50px; height: 50px;" src="./Git.svg" alt="Git icon" />
+</div>
 
 ### I want to learn about
 
-<img style="margin: 0px 1rem 0px 0px; width: 50px; heigth: 50px;" src="./C.svg" alt="C icon" />
-<img style="margin: 0px 1rem 0px 0px; width: 50px; heigth: 50px;" src="./rust.svg" alt="rust icon" />
-<img style="margin: 0px 1rem 0px 0px; width: 50px; heigth: 50px;" src="./Go.svg" alt="Go icon" />
-<img style="margin: 0px 1rem 0px 0px; width: 50px; heigth: 50px;" src="./Docker.svg" alt="Docker icon" />
-<img style="margin: 0px 1rem 0px 0px; width: 50px; heigth: 50px;" src="./Nest.js.svg" alt="Nest.js icon" />
-<img style="margin: 0px 1rem 0px 0px; width: 50px; heigth: 50px;" src="./Blender.svg" alt="Blender icon" />
-<img style="margin: 0px 1rem 0px 0px; width: 50px; heigth: 50px;" src="./Bash.svg" alt="Bash Script icon" />
-<img style="margin: 0px 1rem 0px 0px; width: 50px; heigth: 50px;" src="./Godot-Engine.svg" alt="Godot Engine icon" />
+<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+    <img style="width: 50px; height: 50px;" src="./C.svg" alt="C icon" />
+    <img style="width: 50px; height: 50px;" src="./rust.svg" alt="rust icon" />
+    <img style="width: 50px; height: 50px;" src="./Go.svg" alt="Go icon" />
+    <img style="width: 50px; height: 50px;" src="./Docker.svg" alt="Docker icon" />
+    <img style="width: 50px; height: 50px;" src="./Nest.js.svg" alt="Nest.js icon" />
+    <img style="width: 50px; height: 50px;" src="./Blender.svg" alt="Blender icon" />
+    <img style="width: 50px; height: 50px;" src="./Bash.svg" alt="Bash Script icon" />
+    <img style="width: 50px; height: 50px;" src="./Godot-Engine.svg" alt="Godot Engine icon" />
+</div>
 
 ---
 
@@ -50,5 +54,5 @@ I'm always open to learn from everyone.
 
 - [Dyarikku](https://x.com/dyarikku)
 - [Zentreya](https://x.com/zentreya)
-- [Twitter](https://x.com/Lost_K78)
+- [Losti](https://x.com/Lost_K78)
 - Discord: losti.
