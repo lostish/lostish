@@ -72,9 +72,6 @@ I'm always open to learn from everyone.
 <a href="https://x.com/aidenybai" target="_blank" rel="noreferrer noopener">
     Aiden Bai
 </a>
-<a href="https://x.com/0xilly" target="_blank" rel="noreferrer noopener">
-    ily
-</a>
 <a href="https://x.com/snwy" target="_blank" rel="noreferrer noopener">
     snwy
 </a>
