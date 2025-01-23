@@ -10,7 +10,6 @@ I'm always looking for people to talk to and projects with.
 
 > I'm new Arch Linux user
 
--
 - I will start writing articles soon.
 - Ask, Talk to me and Contact me through my social networks.
 
@@ -52,7 +51,37 @@ I'm always open to learn from everyone.
 
 #### Social Networks
 
-- [Dyarikku](https://x.com/dyarikku)
-- [Zentreya](https://x.com/zentreya)
-- [Losti](https://x.com/Lost_K78)
+- [Twitter](https://x.com/Lost_K78)
 - Discord: losti.
+
+##### I would appreciate your support for
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; font-size: 0.8rem;">
+<a href="https://x.com/dyarikku" target="_blank" rel="noreferrer noopener">
+    Dyarikku
+</a>
+<a href="https://x.com/zentreya" target="_blank" rel="noreferrer noopener">
+    Zentreya
+</a>
+<a href="https://x.com/7etsuo" target="_blank" rel="noreferrer noopener">
+    Tetsuo
+</a>
+<a href="https://x.com/chessMan786" target="_blank" rel="noreferrer noopener">
+    Mohit Mishra
+</a>
+<a href="https://x.com/aidenybai" target="_blank" rel="noreferrer noopener">
+    Aiden Bai
+</a>
+<a href="https://x.com/0xilly" target="_blank" rel="noreferrer noopener">
+    ily
+</a>
+<a href="https://x.com/snwy" target="_blank" rel="noreferrer noopener">
+    snwy
+</a>
+<a href="https://x.com/jarredsummer" target="_blank" rel="noreferrer noopener">
+    Jarred summer
+</a>
+<a href="https://x.com/rauchg" target="_blank" rel="noreferrer noopener">
+    Guillermo Rauch
+</a>
+</div>
