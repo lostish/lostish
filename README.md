@@ -6,7 +6,7 @@
 
 I'm a web dev who wants to be a Full-Stack developer and Software Enginner. I love to try everthing (low level, mid level, high level) and i like new challenges and interesting projects.
 
-I'm always looking for people to talk to and projects with.
+I'm always looking for people to talk to and do projects with.
 
 > I'm new Arch Linux user
 
