@@ -76,6 +76,8 @@ Learning to bring incredible things with the tools I use.
 
 [![roadmap.sh](https://roadmap.sh/card/tall/65a7fe720c54812283f5a840?variant=dark&roadmaps=full-stack%2Cdocker%2Crust%2Cgolang)](https://roadmap.sh)
 
+<a href="https://app.daily.dev/losti"><img src="https://api.daily.dev/devcards/v2/h2FryRBzFDN21PHDi2DUw.png?r=dor&type=default" width="356" alt="Lost's Dev Card"/></a>
+
 ## You can help me by Donating or Follow me
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198369347497/)
