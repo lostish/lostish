@@ -69,10 +69,12 @@ Learning to bring incredible things with the tools I use.
 ## Github Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=lostish&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-</br>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=lostish&theme=dark&hide_border=false)
-</br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lostish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![roadmap.sh](https://roadmap.sh/card/tall/65a7fe720c54812283f5a840?variant=dark&roadmaps=full-stack%2Cdocker%2Crust%2Cgolang)](https://roadmap.sh)
 
 ## You can help me by Donating or Follow me
 
