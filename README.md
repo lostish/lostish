@@ -7,11 +7,9 @@
     </span>
 </h1>
 
-<img style="display: block; margin: 1.25rem auto;"  src="./dyarikku.gif" alt="Dyarikku watches you" loading="eager" decoding="async" />
-
 I'm a web dev and new Arch Linux user who wants to be a Full-Stack developer and Software Enginner. I love to try everthing (low level, mid level, high level) and i like new challenges and interesting projects.
 
-> I'm always looking for people to talk to and do projects with.
+<img style="display: block; margin: 1.25rem auto;"  src="./dyarikku.gif" alt="Dyarikku watches you" loading="eager" decoding="async" />
 
 - I will start writing articles soon.
 - Ask, Talk to me and Contact me through my social networks.
@@ -76,7 +74,7 @@ Learning to bring incredible things with the tools I use.
 
 [![roadmap.sh](https://roadmap.sh/card/tall/65a7fe720c54812283f5a840?variant=dark&roadmaps=full-stack%2Cdocker%2Crust%2Cgolang)](https://roadmap.sh)
 
-<a href="https://app.daily.dev/losti"><img src="https://api.daily.dev/devcards/v2/h2FryRBzFDN21PHDi2DUw.png?r=dor&type=default" width="356" alt="Lost's Dev Card"/></a>
+<a href="https://app.daily.dev/losti"><img src="./devcard.png" width="356" alt="Lost's Dev Card"/></a>
 
 ## You can help me by Donating or Follow me
 
