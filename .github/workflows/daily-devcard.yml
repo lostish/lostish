@@ -15,7 +15,7 @@ jobs:
       - name: devcard
         # You may pin to the exact commit or the version.
         # uses: dailydotdev/action-devcard@276972279623d2d6dd68aef668fdb75adb3a9d19
-        uses: dailydotdev/action-devcard@3.0.0
+        uses: dailydotdev/action-devcard@3.2.1
         with:
           # Your daily.dev user id
           user_id: ${{ secrets.USER_ID }}
